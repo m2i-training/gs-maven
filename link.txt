@@ -1,1 +1,3 @@
+mvn archetype:generate -DgroupId=com.mycompany.app -DartifactId=my-app -DarchetypeArtifactId=maven-archetype-quickstart -DarchetypeVersion=1.4 -DinteractiveMode=false
+ 
 https://wetransfer.com/downloads/60f9b5a0486da9280658b4f6128f505b20200107221533/940dae7527c03be444e1ec4d6b5de32420200107221533/41eeb9
